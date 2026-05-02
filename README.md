@@ -24,16 +24,3 @@ Open to collaboration and new opportunities
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" alt="HTML5" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" alt="Postman" />
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Ikram0-4">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikram0-4&hide=html,lua,makefile,css,tex,jupyter%20notebook,praat&langs_count=4&theme=darcula" height="200" />
-  </a>
-  <a href="https://github.com/Ikram0-4">
-    <img src="https://github-readme-stats.vercel.app/api/?username=Ikram0-4&theme=darcula&show_icons=true&count_private=true&cache_seconds=1800&v=4" height="200" />
-  </a>
-</div>
