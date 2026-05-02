@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Ikram, a passionate developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ikram%20J?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/ikram-j-b5a934239/)
-[![Gmail](https://img.shields.io/badge/Gmail-ecram-91@hotmail.fr-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecram-91@hotmail.fr)
+[![Gmail](https://img.shields.io/badge/Gmail-ecram-91%40hotmail.fr-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecram-91@hotmail.fr)
 
 Master's in NLP | AI enthusiast | Always exploring new ideas  
 Open to collaboration and new opportunities
