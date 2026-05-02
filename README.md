@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi! I'm Ikram, a passionate developer
 
-<!--
-**Ikram0-4/Ikram0-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ikram%20J?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/ikram-j-b5a934239/)
+[![Gmail](https://img.shields.io/badge/Gmail-ecram-91@hotmail.fr-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecram-91@hotmail.fr)
 
-Here are some ideas to get you started:
+Master's in NLP | AI enthusiast | Always exploring new ideas  
+Open to collaboration and new opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages and Tools I Use
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="42" alt="PyTorch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" alt="Scikit-learn" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" alt="Seaborn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="42" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" alt="HTML5" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" alt="Postman" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Ikram0-4">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikram0-4&hide=html,lua,makefile,css,tex,jupyter%20notebook,praat&langs_count=4&theme=darcula" height="200" />
+  </a>
+  <a href="https://github.com/Ikram0-4">
+    <img src="https://github-readme-stats.vercel.app/api/?username=Ikram0-4&theme=darcula&show_icons=true&count_private=true&cache_seconds=1800&v=4" height="200" />
+  </a>
+</div>
